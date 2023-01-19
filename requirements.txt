@@ -1,0 +1,7 @@
+covalent
+covalent-awsbatch-plugin
+matplotlib
+numpy
+scikit-image
+torch
+torchvision
